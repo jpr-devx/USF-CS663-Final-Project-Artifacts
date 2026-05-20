@@ -5,5 +5,6 @@ Due to GH file size restrictions, a google drive share link to the train split m
 
 ## Datasets Used for the Project:
 [Speech Accent Archive](https://www.kaggle.com/datasets/rtatman/speech-accent-archive) 
+We had initially used the SAA as our dataset, but changed to the Globe V3 due to there being more data.
 
 [GLOBEV3](https://huggingface.co/datasets/MushanW/GLOBE_V3)
